@@ -6,3 +6,4 @@ This is a line from Github
 
 This is a line from RStudio
 test
+test 2
